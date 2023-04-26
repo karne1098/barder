@@ -1,5 +1,6 @@
 function AddPost() {
     return (
+        
         <div> addPost </div>
     )
 }
